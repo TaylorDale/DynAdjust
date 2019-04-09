@@ -68,5 +68,6 @@
       <Filter>Source Files</Filter>
     </None>
     <None Include="READ-ME-FIRST-BEFORE-BUILDING.txt" />
+    <None Include="packages.config" />
   </ItemGroup>
 </Project>

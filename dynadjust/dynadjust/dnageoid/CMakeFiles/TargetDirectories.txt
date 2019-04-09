@@ -1,0 +1,7 @@
+/home/pi/Documents/Github/DynAdjust/dynadjust/dynadjust/dnageoid/CMakeFiles/install/local.dir
+/home/pi/Documents/Github/DynAdjust/dynadjust/dynadjust/dnageoid/CMakeFiles/install.dir
+/home/pi/Documents/Github/DynAdjust/dynadjust/dynadjust/dnageoid/CMakeFiles/install/strip.dir
+/home/pi/Documents/Github/DynAdjust/dynadjust/dynadjust/dnageoid/CMakeFiles/edit_cache.dir
+/home/pi/Documents/Github/DynAdjust/dynadjust/dynadjust/dnageoid/CMakeFiles/dnageoid.dir
+/home/pi/Documents/Github/DynAdjust/dynadjust/dynadjust/dnageoid/CMakeFiles/rebuild_cache.dir
+/home/pi/Documents/Github/DynAdjust/dynadjust/dynadjust/dnageoid/CMakeFiles/list_install_components.dir
